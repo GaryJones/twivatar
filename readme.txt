@@ -4,7 +4,7 @@ Donate link: http://code.garyjones.co.uk/donate/
 Tags: twivatar, twitter, avatar
 Requires at least: 2.8.0
 Tested up to: 3.5.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Adds a shortcode that echos the current Twitter avatar for a username. Image URL is cached.
 
@@ -41,10 +41,16 @@ This image is only used if no image can be determined for the account. Either Tw
 
 == Changelog ==
 
+= 1.0.1 =
+* Tidy up of old code, including improved i18n support.
+
 = 1.0.0 =
 * First public version.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Non-critical update - tidy up of old code and documentation.
 
 = 1.0.0 =
 Update from nothingness. You will feel better for it.
