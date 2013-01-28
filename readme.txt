@@ -53,7 +53,10 @@ This image is only used if no image can be determined for the account. Either Tw
 == Changelog ==
 
 = 1.0.2 =
-* Minor code tweaks.
+* Removed array type hint that may not be satisfied in edge cases.
+* Moved main class into its own file.
+* Made the variable that has the instance of the class assigned to it, explicitely global.
+* Added .pot file.
 
 = 1.0.1 =
 * Tidy up of old code, including improved i18n support.
