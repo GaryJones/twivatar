@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Twivatar
- * Plugin URI: http://code.garyjones.co.uk/plugins/twivatar
+ * Plugin URI: https://github.com/GaryJones/twivatar/
  * Description: Adds a shortcode that echos the current Twitter avatar for a username. Image URL is cached.
  * Version: 1.0.1
  * Author: Gary Jones
