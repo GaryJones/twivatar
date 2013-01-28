@@ -5,6 +5,7 @@ Tags: twivatar, twitter, avatar
 Requires at least: 2.8.0
 Tested up to: 3.5.0
 Stable tag: 1.0.1
+License: GPL-2.0+
 
 Adds a shortcode that echos the current Twitter avatar for a username. Image URL is cached.
 
@@ -22,12 +23,18 @@ Attributes (optional unless marked otherwise):
 * `class` - class attribute value of the image. Default is none.
 * `title` - title attribute value of the image. Default is none.
 
+Please report all issue via [https://github.com/GaryJones/twivatar/issues](https://github.com/GaryJones/twivatar/issues).
+
 == Installation ==
 
 1. Unzip and upload `twivatar` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
+
+= Where should I report any problems? =
+
+Please report all issue via [https://github.com/GaryJones/twivatar/issues](https://github.com/GaryJones/twivatar/issues).
 
 = Can I amend how long the image URL is cached for? =
 
@@ -39,7 +46,14 @@ Not yet. In a future version of the plugin, you will be able to. Current default
 
 This image is only used if no image can be determined for the account. Either Twitter is down, or the account doesn't exist. If the account does exist, but has no image, then the default one that Twitter uses will be stored.
 
+== Screenshots ==
+
+1. Example of output, as seen at http://bsktweetup.info/
+
 == Changelog ==
+
+= 1.0.2 =
+* Minor code tweaks.
 
 = 1.0.1 =
 * Tidy up of old code, including improved i18n support.
@@ -48,6 +62,9 @@ This image is only used if no image can be determined for the account. Either Tw
 * First public version.
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+Non-critical update - minor code tweaks.
 
 = 1.0.1 =
 Non-critical update - tidy up of old code and documentation.
