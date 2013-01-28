@@ -4,7 +4,7 @@ Donate link: http://code.garyjones.co.uk/donate/
 Tags: twivatar, twitter, avatar
 Requires at least: 2.8.0
 Tested up to: 3.5.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPL-2.0+
 
 Adds a shortcode that echos the current Twitter avatar for a username. Image URL is cached.

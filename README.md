@@ -74,4 +74,4 @@ _Example of output as seen on http://bsktweetup.info/_
 ## Credits
 
 Built by [Gary Jones](https://twitter.com/GaryJ)
-Copyright 2012 [Gamajo Tech](http://gamajo.com/)
+Copyright 2012 Gary Jones, [Gamajo Tech](http://gamajo.com/)

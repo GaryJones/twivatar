@@ -1,9 +1,9 @@
-# The Twivatar 1.0.1 Translation Master File
+# The Twivatar 1.0.2 Translation Master File
 # Copyright (C) 2013 Gary Jones, Gamajo Tech
 # This file is distributed under the same license as the Twivatar package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Twivatar 1.0.1\n"
+"Project-Id-Version: Twivatar 1.0.2\n"
 "Report-Msgid-Bugs-To: http://github.com/GaryJones/Twivatar/issues\n"
 "POT-Creation-Date: 2013-01-22 02:49:17+00:00\n"
 "MIME-Version: 1.0\n"

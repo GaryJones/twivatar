@@ -12,7 +12,7 @@
  * Plugin Name: Twivatar
  * Plugin URI: https://github.com/GaryJones/twivatar/
  * Description: Adds a shortcode that echos the current Twitter avatar for a username. Image URL is cached.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Gary Jones
  * Author URI: http://garyjones.co.uk
  * License: GPL-2.0+
