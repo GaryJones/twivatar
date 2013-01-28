@@ -66,7 +66,12 @@ Not yet. In a future version of the plugin, you will be able to. Current default
 Not yet. In a future version of the plugin, you will be able to. Current default is to use an image file called `no-twitter-image.png` in a folder called `images` in your active theme.
 This image is only used if no image can be determined for the account. Either Twitter is down, or the account doesn't exist. If the account does exist, but has no image, then the default one that Twitter uses will be stored.
 
-## Credits ##
+## Screenshot
 
-Built by [Gary Jones](https://twitter.com/GaryJ)  
-Copyright 2012 [Blazer Six, Inc.](http://www.blazersix.com/)
+![Example output of multiple twivatars](https://raw.github.com/GaryJones/twivatar/master/assets/screenshot-1.png)
+_Example of output as seen on http://bsktweetup.info/_
+
+## Credits
+
+Built by [Gary Jones](https://twitter.com/GaryJ)
+Copyright 2012 [Gamajo Tech](http://gamajo.com/)
